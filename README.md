@@ -64,9 +64,9 @@ Reach out to me directly through
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=codewithowais">
 </a>
-<a href="https://github.com/codewithowais?tab=followers">
-    <img src="https://img.shields.io/github/followers/codewithowais?label=Followers&style=social" alt="GitHub Badge">
+<a href="https://github.com/AnisUrrehman58?tab=followers">
+    <img src="https://img.shields.io/github/followers/AnisUrrehman58?label=Followers&style=social" alt="GitHub Badge">
 </a> 
 
-![AnisUrrehman58's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
+![AnisUrrehman58's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnisUrrehman58&show_icons=true&theme=dark)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark&langs_count=50" />
