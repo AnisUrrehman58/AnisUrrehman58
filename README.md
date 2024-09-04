@@ -42,9 +42,11 @@ If you ever need my services, feel free to connect with me on any of my social p
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt
 
 
-   
- ## Contact    
-Reach out to me directly through:  
+### Contact
+
+Reach out to me directly through
+
+
 <p align="start">
   <a href="https://www.linkedin.com/in/anisurrehman58/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
