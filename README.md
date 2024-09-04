@@ -5,8 +5,7 @@
 🔭 I’m currently working on [Food Delivery App]     
 🌱 I’m currently learning [nodejs]        
 💬 Feel free to ask me about Flutter, Firebase, UI/UX Design  
-📫 How to reach me: [Your Email]  
-⚡ Fun fact: [Something Interesting About You]
+⚡ Fun fact: I'm passionate about turning complex problems into simple, elegant solutions.
 
 ## 🚀 My Skills
 - Flutter & Dart
