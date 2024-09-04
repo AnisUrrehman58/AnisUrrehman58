@@ -2,7 +2,7 @@
 
 ## I'm Anis-Ur-Rehman!
 
-🔭 I’m currently working on [Food Delivery App]  
+🔭 I’m currently working on [Food Delivery App]
 🌱 I’m currently learning [nodejs]
 💬 Feel free to ask me about Flutter, Firebase, UI/UX Design  
 📫 How to reach me: [Your Email]  
@@ -14,7 +14,8 @@
 - UI/UX Design
 
 ## 🌟 About Me
-I'm a dedicated Flutter developer with expertise in creating responsive and visually appealing mobile applications. If you ever need my services, feel free to connect with me on any of my social platforms:
+I'm a dedicated Flutter developer with expertise in creating responsive and visually appealing mobile applications.
+If you ever need my services, feel free to connect with me on any of my social platforms:
 
 
 ![My Profile Image](https://github.com/codewithowais/codewithowais/blob/master/coding.gif)
