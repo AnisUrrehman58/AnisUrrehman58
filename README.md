@@ -8,7 +8,7 @@
 
 Reach out to me directly through:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yourusername)
+[![LinkedIn](https://www.linkedin.com/in/anisurrehman58/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://twitter.com/yourusername)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?logo=whatsapp)](https://wa.me/yourphonenumber)
 [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://www.youtube.com/c/yourusername)
