@@ -74,7 +74,7 @@ Reach out to me directly through
 ## GitHub Status
 
 ![AnisUrrehman58's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
-<img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkxSurfer&layout=compact&theme=dark&langs_count=50" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkxSurfer&layout=compact&theme=dark&langs_count=50" />
 
 
 
