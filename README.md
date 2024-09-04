@@ -69,4 +69,4 @@ Reach out to me directly through
 </a> 
 
 ![AnisUrrehman58's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnisUrrehman58&show_icons=true&theme=dark)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark&langs_count=50" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnisUrrehman58&layout=compact&theme=dark&langs_count=50" />
