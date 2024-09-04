@@ -71,16 +71,12 @@ Reach out to me directly through
   <!-- Contact buttons -->
 </p>
 
-## GitHub Stats
+## GitHub Status
 
 ![Anis-Ur-Rehman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
-
-
-### Status
-    
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkxSurfer&theme=dark&count_private=true&show_icons=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkxSurfer&layout=compact&theme=dark&langs_count=50" />
+
+
 
     
     
