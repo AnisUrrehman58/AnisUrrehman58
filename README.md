@@ -61,8 +61,6 @@ Reach out to me directly through:
 
 
 
-Reach out to me directly through:
-
 <p align="start">
   <!-- Contact buttons -->
 </p>
