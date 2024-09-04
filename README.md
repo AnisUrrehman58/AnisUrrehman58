@@ -56,19 +56,5 @@ Reach out to me directly through:
 
 ![Anis-Ur-Rehman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
 
-## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark)
 
-## GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=darkhub)
-
-## Popular Repositories
-
-- [DarkxSurfer](https://github.com/YourGitHubUsername/DarkxSurfer)
-- [Currency-Converter](https://github.com/YourGitHubUsername/Currency-Converter)
-- [LudoBoard](https://github.com/YourGitHubUsername/LudoBoard)
-- [PDTable](https://github.com/YourGitHubUsername/PDTable)
-- [Projec-3](https://github.com/YourGitHubUsername/Projec-3)
-- [NoteApp](https://github.com/YourGitHubUsername/NoteApp)
