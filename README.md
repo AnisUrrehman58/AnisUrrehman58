@@ -35,4 +35,11 @@ Reach out to me directly through:
   <a href="https://dart.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
   </a>
-</p>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt
