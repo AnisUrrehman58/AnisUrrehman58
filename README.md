@@ -2,8 +2,8 @@
 
 ## I'm Anis-Ur-Rehman!
 
-🔭 I’m currently working on [Food Delivery App]
-🌱 I’m currently learning [nodejs]
+🔭 I’m currently working on [Food Delivery App]     
+🌱 I’m currently learning [nodejs]        
 💬 Feel free to ask me about Flutter, Firebase, UI/UX Design  
 📫 How to reach me: [Your Email]  
 ⚡ Fun fact: [Something Interesting About You]
