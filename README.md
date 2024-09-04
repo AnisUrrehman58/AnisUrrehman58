@@ -7,12 +7,26 @@
 ## Contact
 
 Reach out to me directly through:
-https://camo.githubusercontent.com/8c0692475a5bfc1d9e7361074bdb648e567cae7b5b40ffd32adae31180b0d7b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465
-[![LinkedIn]([https://www.linkedin.com/in/anisurrehman58/](https://www.linkedin.com/in/anisurrehman58/))
-[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://twitter.com/yourusername)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?logo=whatsapp)](https://wa.me/yourphonenumber)
-[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://www.youtube.com/c/yourusername)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:yourname@gmail.com)
+## Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://wa.me/yourphonenumber" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://www.youtube.com/c/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="mailto:yourname@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
 
 ## Tech Stack
 
