@@ -2,8 +2,8 @@
 
 ## I'm Anis-Ur-Rehman!
 
-🔭 I’m currently working on [Food Delivery App]     
-🌱 I’m currently learning [nodejs]        
+🔭 I’m currently working on [Food Delivery App]  
+🌱 I’m currently learning [Node.js]  
 💬 Feel free to ask me about Flutter, Firebase, UI/UX Design  
 ⚡ Fun fact: I'm passionate about turning complex problems into simple, elegant solutions.
 
@@ -13,17 +13,13 @@
 - UI/UX Design
 
 ## 🌟 About Me
-I'm a dedicated Flutter developer with expertise in creating responsive and visually appealing mobile applications.
-If you ever need my services, feel free to connect with me on any of my social platforms:
-
+I'm a dedicated Flutter developer with expertise in creating responsive and visually appealing mobile applications. If you ever need my services, feel free to connect with me on any of my social platforms:
 
 ![My Profile Image](https://github.com/codewithowais/codewithowais/blob/master/coding.gif)
-
 
 ### Contact
 
 Reach out to me directly through
-
 
 <p align="start">
   <a href="https://www.linkedin.com/in/anisurrehman58/" target="_blank">
@@ -39,8 +35,6 @@ Reach out to me directly through
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
-
-
 
 ## Tech Stack
 
@@ -61,27 +55,18 @@ Reach out to me directly through
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt
-
-
-
-
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  </a>
+</p>
 
 ## ❤ Views and Followers
-    
+
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=codewithowais">
 </a>
-<a href="https://github.com/codewothowais?tab=followers"><img src="https://img.shields.io/github/followers/codewithowais?label=Followers&style=social" alt="GitHub Badge"></a> 
-
-
+<a href="https://github.com/codewithowais?tab=followers">
+    <img src="https://img.shields.io/github/followers/codewithowais?label=Followers&style=social" alt="GitHub Badge">
+</a> 
 
 ![AnisUrrehman58's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkxSurfer&layout=compact&theme=dark&langs_count=50" />
-
-
-
-    
-    
-
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark&langs_count=50" />
