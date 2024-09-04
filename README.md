@@ -76,12 +76,6 @@ Reach out to me directly through
 ![Anis-Ur-Rehman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
 
 
-## ❤ Views and Followers
-    
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=codewithowais">
-</a>
-<a href="https://github.com/codewothowais?tab=followers"><img src="https://img.shields.io/github/followers/codewithowais?label=Followers&style=social" alt="GitHub Badge"></a> 
     
     
 
