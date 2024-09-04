@@ -2,7 +2,7 @@
 
 ## I'm Anis-Ur-Rehman!
 
-![My Profile Image](https://github.com/yourusername/yourrepositoryname/blob/main/image.png)
+![My Profile Image](https://github.com/codewithowais/codewithowais/blob/master/coding.gif)
 
 ## Contact
 
