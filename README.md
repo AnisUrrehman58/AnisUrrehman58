@@ -9,8 +9,10 @@
 
 ## 🚀 My Skills
 - Flutter & Dart
-- Firebase
 - UI/UX Design
+- Getx & Provider
+- WebSocket
+- Firebase
 
 ## 🌟 About Me
 I'm a dedicated Flutter developer with expertise in creating responsive and visually appealing mobile applications. If you ever need my services, feel free to connect with me on any of my social platforms:
